@@ -1,6 +1,6 @@
 # Studentų įvertinimai (v0.1)
 
-Programos veikimas: 
+## Programos veikimas: 
 1. Vartotojas įveda, kiek bus studentų (įvedus neteigiamą skaičių, išvedama „Nėra duomenų“, programa sustoja).
 2. Vartotojas įveda studento vardą, pavardę.
 3. Vartotojui leidžiama pasirinkti pažymių nuskaitymo būdą: įvedimas arba atsitiktinis generavimas.
