@@ -1,7 +1,6 @@
-# Studentų įvertinimai
-Programa nuskaito studentų duomenis ir apskaičiuoja kiekvieno studento galutinį įvertinimą.
+# Studentų įvertinimai v0.3
+Informacija apie išimčių valdymą:
+* Paleidus programą prašoma pasirinkti, ar nuskaityti duomenis, ar įvesti. Jei įvedamas netinkamas simbolis, ekrane parodomas pranešimas ir prašoma rinktis iš naujo.
+* Įvedus netinkamą pažymį, ekrane parodomas pranešimas ir prašoma įvesti iš naujo.
+* Jeigu norint nuskaityti duomenis nerandamas failas, ekrane parodomas pranešimas, programa sustoja.
 
-## Nuorodos į skirtingas programos versijas:
-
-* [v0.1](https://github.com/sandra0828/studentuIvertinimai/tree/v0.1)
-* [v0.2](https://github.com/sandra0828/studentuIvertinimai/tree/v0.2)
