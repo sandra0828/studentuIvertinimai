@@ -2,21 +2,21 @@
 ## Efektyvumo tyrimas
 
 **FAILAS SU 1000 įrašų:**
-*	Failo sukūrimas užtruko: 0.244426 s
+*	Failo sukūrimas užtruko: 0.0727955 s
 *	Failo nuskaitymas užtruko: 0.0122615 s
 *	Studentų padalinimas į du sąrašus, panaikinant pradinį vektorių, užtruko: 0.0004515 s
 *	„Galvočių“ sąrašo į failą įrašymas užtruko: 0.0339488 s
 *	„Vargšiukų“ sąrašo į failą įrašymas užtruko: 0.0352705 s
 
 **FAILAS SU 10000 įrašų:**
-*	Failo sukūrimas užtruko: 0.349761 s
+*	Failo sukūrimas užtruko: 0.226465 s
 *	Failo nuskaitymas užtruko: 0.128827 s
 *	Studentų padalinimas į du sąrašus, panaikinant pradinį vektorių, užtruko: 0.0070369 s
 *	„Galvočių“ sąrašo į failą įrašymas užtruko: 0.191187 s
 *	„Vargšiukų“ sąrašo į failą įrašymas užtruko: 0.120078 s
 
 **FAILAS SU 100000 įrašų:**
-*	Failo sukūrimas užtruko: 2.91832 s
+*	Failo sukūrimas užtruko: 2.0829 s
 *	Failo nuskaitymas užtruko: 1.10444 s
 *	Studentų padalinimas į du sąrašus, panaikinant pradinį vektorių, užtruko: 0.0775521 s
 *	„Galvočių“ sąrašo į failą įrašymas užtruko: 0.87106 s
@@ -29,4 +29,12 @@
 *	„Galvočių“ sąrašo į failą įrašymas užtruko: 7.01465 s
 *	„Vargšiukų“ sąrašo į failą įrašymas užtruko: 5.28869 s
 
+**FAILAS SU 10000000 įrašų:**
+*	Failo sukūrimas užtruko: 163.228 s
+*	Failo nuskaitymas užtruko: 104.838 s
+*	Studentų padalinimas į du sąrašus, panaikinant pradinį vektorių, užtruko: 9,4681 s
+*	„Galvočių“ sąrašo į failą įrašymas užtruko: 75.0394 s
+*	„Vargšiukų“ sąrašo į failą įrašymas užtruko: 47.2996 s
+
+*Tyrimas atliktas naudojant vidurkį galutinio pažymio skaičiavimui.*
 
