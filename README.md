@@ -12,8 +12,8 @@ Programa nuskaito studentų duomenis (vardą, pavardę, n pažymių ir egzamino 
    * 1 – Bendro studentai konteinerio skaidymas į du naujus to paties tipo konteinerius: "vargšiukų" ir "galvočių", pabaigoje panaikinant pradinį konteinerį.
    * 2 - Bendro studentų konteinerio skaidymas panaudojant tik vieną naują konteinerį: "galvočiai" (vargšiukai lieka bendrame studentų konteineryje, o galvočiai perkeliami į naują).
    * 3 - Bendro studentai konteinerio skaidymas į du naujus to paties tipo konteinerius: "vargšiukų" ir "galvočių" perkeliant po vieną elementą į naują konteinerį ir iškart pašalinant iš pradinio.
-   6. Vyksta studentų sąrašo dalinimas pagal pasirinktą strategiją, ekrane parodomas veiksmo laikas.
-   7. Kuriami nauji sąrašai: „vargšiukai“ ir „galvočiai“. (Realizacijoje su vektoriais ekrane parodomas kiekvieno failo sukūrimo laikas).
+6. Vyksta studentų sąrašo dalinimas pagal pasirinktą strategiją, ekrane parodomas veiksmo laikas.
+7. Kuriami nauji sąrašai: „vargšiukai“ ir „galvočiai“. (Realizacijoje su vektoriais ekrane parodomas kiekvieno failo sukūrimo laikas).
    
 ## Nuorodos į skirtingas programos versijas:
  * [v0.1](https://github.com/sandra0828/studentuIvertinimai/tree/v0.1)
