@@ -50,7 +50,6 @@ int main()
         naujiSarasai(galvociai, vargsiukai, failoDydis);
     }
 
-    
-
+    system("PAUSE");
     return 0;
 }
