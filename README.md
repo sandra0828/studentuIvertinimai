@@ -3,7 +3,7 @@
 Programa nuskaito studentų duomenis (vardą, pavardę, n pažymių ir egzamino įvertinimą) ir iš šių duomenų suskaičiuoja galutinį įvertinimą pagal formulę:
 > galutinis = 0.4 * vidurkis + 0.6 * egzaminas.
 
-##
+## Struktūra
 Programą sudaro 3 projektai ir kiekvieno iš jų įdiegimo failai:
  * Naudojamas vektorius: studentuIvertinimai, setup(vektorius);
  * Naudojamas sąrašas: studentuIvertinimai(list), setup(sarasas);
