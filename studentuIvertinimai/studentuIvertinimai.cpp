@@ -48,7 +48,7 @@ int main()
         studentuRusiavimas(studentai, galvociai, vargsiukai, skaiciavimoBudas, sarasoDalinimoStrategija);
         naujiSarasai(galvociai, vargsiukai, failoDydis);
     }
-    
+    system("PAUSE");
     return 0;
 }
 
